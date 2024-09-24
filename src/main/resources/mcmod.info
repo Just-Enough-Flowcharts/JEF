@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jef",
+  "name": "Just Enough Flowcharts",
+  "description": "Flowchart all of your setups.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Day", "Gopi],
+  "credits": "Day & Gopi.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
